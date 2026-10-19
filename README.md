@@ -1,4 +1,4 @@
-[![Build Jekyll site](https://github.com/esciencecenter-digital-skills/next-workshop-template/actions/workflows/jekyll.yml/badge.svg)](https://github.com/esciencecenter-digital-skills/next-workshop-template/actions/workflows/jekyll.yml)
+[![Build Jekyll site](https://github.com/esciencecenter-digital-skills/2026-11-03-ds-intermediate-python/actions/workflows/jekyll.yml/badge.svg)](https://github.com/esciencecenter-digital-skills/2026-11-03-ds-intermediate-python/actions/workflows/jekyll.yml)
 
 # The Workshop Template
 
